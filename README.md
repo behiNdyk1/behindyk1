@@ -1,7 +1,7 @@
 ### Olá! 👋
 > Entusiasta na área de segurança da informação, mais voltado para operações relacionadas a red teaming e hacking ético.
 
-🔭 Atualmente obtendo experiência, escrevendo artigos sobre o que estou aprendendo, fazendo CTFs, participando da comunidade de hacking BR e codando uns exploits/scripts em python.
+🔭 Atualmente obtendo experiência, escrevendo artigos sobre o que estou aprendendo, fazendo CTFs, interagindo em comunidades de hacking e codando uns exploits/scripts em python.
 
 💬 Caso deseje entrar em contato, sinta-se a vontade para enviar-me um email em: `behind_leet@protonmail.ch` ou uma mensagem no Discord, `behiNdyk1#2502`
 
