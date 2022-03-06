@@ -1,4 +1,4 @@
-## 👋 Olá! // Hello!
+### 👋 Olá! // Hello!
 > Entusiasta na área de segurança da informação, mais voltado para operações relacionadas a red teaming e hacking ético. // InfoSec enthusiast, more focused on red teaming and ethical hacking operations.
 
 🔭 Atualmente obtendo experiência, escrevendo artigos sobre o que estou aprendendo, fazendo CTFs, interagindo em comunidades de hacking e codando uns exploits/scripts em python. // Getting experience, writing articles about what I'm currently learning, doing CTFs, engaging in hacking communities and coding exploits/scripts in python.
