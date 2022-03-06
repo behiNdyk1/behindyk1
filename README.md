@@ -3,9 +3,11 @@
 > [EN] InfoSec enthusiast, more focused on red teaming and ethical hacking operations.
 
 🔭 [BR] Atualmente obtendo experiência, escrevendo artigos sobre o que estou aprendendo, fazendo CTFs, interagindo em comunidades de hacking e codando uns exploits/scripts em python.
+
 🔭 [EN] Getting experience, writing articles about what I'm currently learning, doing CTFs, engaging in hacking communities and coding exploits/scripts in python.
 
 💬 [BR] Caso deseje entrar em contato, sinta-se a vontade para enviar-me um email em: `behind_leet@protonmail.ch` ou uma mensagem no Discord, `behiNdyk1#2502`
+
 💬 [EN] Feel free to get in touch via email `behind_leet@protonmail.ch` or via Discord, `behiNdyk1#2502`
 
 ## 💻 Linguagens fluentes // Fluent languages
