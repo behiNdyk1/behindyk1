@@ -14,5 +14,5 @@
 [`Hacker`] <strong><a href="https://app.hackthebox.com/profile/600542" target="_blank">HackTheBox</a></strong>
 
 ## 🔗 Links
-<code><a href="https://twitter.com/behindysec" target="_blank"><img height="32" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a></code>
+<code><a href="https://twitter.com/behindyk1" target="_blank"><img height="32" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a></code>
 <code><a href="https://behindyk1.medium.com" target="_blank"><img height="32" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a></code>
